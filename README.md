@@ -12,7 +12,7 @@ This standalone engineering blueprint establishes a permanent, self-correcting s
 ## 📁 Repository Core File Manifest
 The following asset layer is securely archived within this repository for open-access peer review, academic evaluation, and scenario-stress-testing integration:
 
-*   📄 **`20260921_GLOBAL_REF_ZT_SDR_Vol01_TrackA_Energy_Bypass_Simulation.pdf`** – Complete technical blueprint defining the overland bypass corridors, hard-enforcement security structures, universal technical cost grids, and solid-state physical safeguards.
+*   📄 **`20260921_MBZUAI_REF_ZT_SDR_Vol01_TrackA_Energy_Bypass_Simulation.pdf`** – Complete technical blueprint defining the overland bypass corridors, hard-enforcement security structures, universal technical cost grids, and solid-state physical safeguards.
 
 ---
 
