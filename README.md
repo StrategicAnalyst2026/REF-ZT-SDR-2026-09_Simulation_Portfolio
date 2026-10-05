@@ -51,8 +51,6 @@ To remove digital vulnerabilities and prevent state-level cyber hijacking, all A
 
 ---
 
----
-
 ## 🔒 6.0 Uncompromising Absolute Safeguards
 
 This framework integrates a self-enforcing layer of solid-state physical barriers and air-gapped institutional controls to protect transnational asset lines under rolling kinetic or diplomatic shocks:
@@ -118,7 +116,6 @@ To reconcile absolute geomechanical determinism with extreme black-swan crisis m
 *   **The Mechanical Tripping:** In the event of catastrophic geological displacement or massive natural disasters, the automated fluidic routing can be manually modulated via a non-digital, air-gapped mechanical override gearbox.
 *   **The Flow Rerouting:** This interface requires the simultaneous, physical installation and rotation of three distinct master mechanical keys held exclusively by the heads of state of the adjacent transit zones and the resident international auditing director, returning final decision-making power to human leaders during extreme anomalies without introducing digital hacker paths.
 
----
 ---
 
 ## 📊 7.0 Hardcoded System Tolerance & Dynamic Advanced Safeguards
@@ -198,5 +195,7 @@ To ensure an analogue human deadlock at the *Analogue Triple-Verification Gantry
 *   **The Timing Cylinder:** The mechanical override gearbox incorporates a slow-draining hydraulic timing cylinder calibrated to a strict **72-hour human validation window**.
 *   **The Pressure Accumulation:** If a border discrepancy occurs and the representatives reach a political stalemate on soil, the physical fluid backpressure building behind the closed isolation gates begins to accumulate against a heavy, spring-loaded internal piston.
 *   **The Dynamic Bypass:** The exact millisecond the 72-hour timing window expires, the physical force of the accumulated pressure ratio mechanically trips a binary fluidic gate. This forces the closed manifolds open automatically and routes the resource mass into the pre-built *Trans-Desert Sovereign Loop-Back Spurs*, completely bypassing human gridlock through pure fluid mechanics to keep global markets fully supplied.
+
+---
 
 Disclosures: Generative AI tools were utilized for technical writing assistance, linguistic refinement, and text formatting optimization during the compilation of this wargaming simulation blueprint. All underlying engineering logic, fluid-dynamic parameters, and structural variables were designed and verified by the human author. For administrative inquiries, technical clarifications, or data verification regarding the underlying wargaming parameters, please submit an issue or contact via secure routing mechanisms.
