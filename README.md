@@ -78,8 +78,8 @@ Operational asset allocations calculate systemic yields across the entire multi-
 *   **The Strategic Loop:** If a geomechanical fluid shift activates an autonomous bypass loop around a localized sector, the bypassed node's domestic registry transitions into a fixed 5% network-wide baseline preservation tranche.
 *   **The Revenue Anchor:** Funded directly by the active alternative corridor's surplus clearing indices, this framework maintains absolute financial continuity across all participating states. Regional states view the system as a shared asset protection shield rather than a geopolitical exclusion threat.
 
-### D. The Multilateral Sovereign Security Convention
-To immunize the grid against external great power intervention, the infrastructure charter operates as a regional collective defensive arrangement formally registered under Chapter VIII of the United Nations Charter.
+### D. The Multilateral Sovereign Security Convention & Autarky Directorate
+The infrastructure charter operates as a non-aligned economic bloc under Chapter VIII of the UN Charter, featuring automated multi-state legal and economic defense responses against external sanctions, blockades, or disruptions [context].
 
 *   **The Strategic Loop:** Any external economic sanction, secondary blockade, naval exclusion zone, or kinetic disruption levied by a third-party state against a single node manifold automatically triggers a hardcoded, unified multi-state legal, diplomatic, and counter-arbitrage response.
 *   **The Revenue Anchor:** The charter legally treats the disruption as an existential security threat to the entire regional consensus body, mobilizing collective economic defense channels automatically to preserve line permanence.
@@ -87,9 +87,9 @@ To immunize the grid against external great power intervention, the infrastructu
 ### E. The National Wealth & Future Generations Sovereignty Endowment
 Dividend allocations within the Abu Dhabi Global Market (ADGM) multi-party cryptographic escrow operate under a strict, non-taxable three-tranche structural allocation:
 
-*   **Tranche I (40%):** Executes continuous open-market retirement of the host state's legacy outstanding debt bonds at a premium to restore the country's international credit score.
-*   **Tranche II (40%):** Directly fuels a domestic infrastructure co-generation vehicle managed by local engineering bodies to invest in domestic green-energy and public utilities.
-*   **Tranche III (20%):** Hardcoded as an air-gapped Universal Citizen Resource Dividend distributed directly to domestic population registries, rendering it politically impossible for any future regime to cancel the project.
+Tranche I (40%): Continuous open-market retirement of legacy debt bonds.
+Tranche II (40%): Domestic green-energy and public utility co-generation infrastructure.
+Tranche III (20%): Air-gapped Universal Citizen Resource Dividend branded as the "Sovereign Soil Heritage Dividend".
 
 ### F. The Asynchronous Border Boundary Isolation Cells & Fluidic Diodes
 To guarantee absolute protection of the transnational energy flow without violating domestic laws, the cross-border pipe junctions are fitted with subterranean Asynchronous Border Boundary Isolation Cells running solid-state Mechanical Fluidic Diodes right at the border manifold lines.
@@ -222,6 +222,9 @@ To permanently protect the transcontinental supergrid against speculative pre-po
 *   **Algorithmic Arbitrage Stabilization Dampeners:** To isolate global energy exchanges from speculative trading spikes during the 90-day blinded escrow time-lock, the Pre-Funding Facility locks all associated Infrastructure Permanence Bonds into a non-tradeable, fixed-yield delta ledger until both regional verification keys are cleared, completely eliminating pre-launch market speculation loops.
 *   **Cross-Border Mechanical Flow-Matching Buffers:** If a stepped daily-escrow compression penalty induces an asymmetric construction schedule across adjacent sectors, the active nodes default to a localized low-pressure circulation loop. The inline mechanical fluidic diodes throttle flow-rates to a minimized 1.2 million bpd buffer cycle, preventing upstream kinetic accumulation against the boundary manifolds until the lagging swarm construction hub completes its vitrification phase.
 *   **The Sovereign Reciprocal Indemnity Trust:** To neutralize legislative friction and localize populist backlash against executive Special Economic Zone (SEZ) decrees, the centralized Self-Insuring Infrastructure Risk Trust continuously channels an off-ledger 1% macro-utility dividend directly into regional municipal development funds, ensuring that the local populations traversing adjacent boundary lines experience immediate, tangible economic upside from the grid's structural continuity.
+
+### E. CLAUSE 9.5 - THE WESTPHALIAN EXCEPTION SOVEREIGN FORCE MAJEURE VAULT
+Implements an analogue safety valve allowing signatory nations to freeze automated loops for up to 180 days during a formal Sovereign Existential Force Majeure, requiring a unanimous national defense council vote and physical override verification [context].
 
 ---
 
