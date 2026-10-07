@@ -226,6 +226,13 @@ To permanently protect the transcontinental supergrid against speculative pre-po
 ### E. CLAUSE 9.5 - THE WESTPHALIAN EXCEPTION SOVEREIGN FORCE MAJEURE VAULT
 Implements an analogue safety valve allowing signatory nations to freeze automated loops for up to 180 days during a formal Sovereign Existential Force Majeure, requiring a unanimous national defense council vote and physical override verification [context].
 
+### F. CLAUSE 9.6 - EXECUTIVE RE-EQUILIBRATION & REGIME CONTINUITY ESCROWS
+To permanently protect the transcontinental supergrid against catastrophic regime destabilization, external legal lawfare, and multi-lateral diplomatic stagnation during automated loop execution, the framework deploys three strategic safeguards:
+
+*   **Regime Continuity Escrow Buffers:** If an automated geomechanical fluid shift activates an autonomous bypass loop and compresses a transit zone's equity dividend to the 2.5% maintenance floor, the ADGM escrow trust automatically executes a 60-day emergency payroll liquidity tranche routed directly to verified local public utility and border security accounts, preventing internal systemic collapse while remediation parameters are verified.
+*   **Reciprocal Sovereign Asset-Swap Immunity:** All physical infrastructure nodes traversing designated Sovereign Commercial SEZ perimeters are legally classified as Sovereign Immune Diplomatic Property. Any extra-territorial legal freeze or third-party asset-stripping maneuver levied against an inline node automatically triggers a hardcoded reciprocal indemnity clause, authorizing the host state to execute an immediate sovereign counter-seizure of equivalent commercial volumes inside the corridor footprint to enforce asset sanctity.
+*   **Asynchronous Modular Executive Accession Annexes:** To eliminate multi-year legislative stagnation and electoral cycle friction, the master framework operates as an open-ended, standing supranational facility. Participating heads of state achieve immediate statutory authorization by executing standalone, single-page executive national security decrees that bypass standard civilian parliamentary committees, accelerating node activation into independent, decoupled operational windows.
+
 ---
 
 Disclosures: Generative AI tools were utilized for technical writing assistance, linguistic refinement, and text formatting optimization during the compilation of this wargaming simulation blueprint. All underlying engineering logic, fluid-dynamic parameters, and structural variables were designed and verified by the human author. For administrative inquiries, technical clarifications, or data verification regarding the underlying wargaming parameters, please submit an issue or contact via secure routing mechanisms.
