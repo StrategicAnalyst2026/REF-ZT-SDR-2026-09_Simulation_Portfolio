@@ -87,9 +87,9 @@ The infrastructure charter operates as a non-aligned economic bloc under Chapter
 ### E. The National Wealth & Future Generations Sovereignty Endowment
 Dividend allocations within the Abu Dhabi Global Market (ADGM) multi-party cryptographic escrow operate under a strict, non-taxable three-tranche structural allocation:
 
-Tranche I (40%): Continuous open-market retirement of legacy debt bonds.
-Tranche II (40%): Domestic green-energy and public utility co-generation infrastructure.
-Tranche III (20%): Air-gapped Universal Citizen Resource Dividend branded as the "Sovereign Soil Heritage Dividend".
+*    **Tranche I (40%):** Continuous open-market retirement of legacy debt bonds.
+*    **Tranche II (40%):** Domestic green-energy and public utility co-generation infrastructure.
+*    **Tranche III (20%):** Air-gapped Universal Citizen Resource Dividend branded as the "Sovereign Soil Heritage Dividend".
 
 ### F. The Asynchronous Border Boundary Isolation Cells & Fluidic Diodes
 To guarantee absolute protection of the transnational energy flow without violating domestic laws, the cross-border pipe junctions are fitted with subterranean Asynchronous Border Boundary Isolation Cells running solid-state Mechanical Fluidic Diodes right at the border manifold lines.
