@@ -51,5 +51,3 @@ The treaty architecture implements decoupled administrative registries across vo
 
 * **C-OTDR & Pressurized Nitrogen:** Dark fiber loops with AES-256 encryption and nitrogen-pressurized steel conduits detect physical intrusions and purge keyspaces instantly via analog pressure drops.
 * **Closed-Loop X-Ray Profilers:** Cross-reference physical component dimensions against steel density footprints in real time.
-
-*(Note: The full, unabridged text of the Track B technical specification and disclosures can be found in the system archives and repository records.)*
