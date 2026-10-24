@@ -17,6 +17,8 @@ The following asset layer is securely archived within this repository for open-a
 
 *   📄 **`20260921_MBZUAI_REF_ZT_SDR_Vol01_TrackA_Energy_Bypass_Simulation.pdf`** – Complete technical blueprint defining the overland bypass corridors, hard-enforcement security structures, universal technical cost grids, and solid-state physical safeguards.
 
+ * **`TRACK-B.md`** - Technical Manual: Multi-Chokepoint Arbitrage Shields & De-Digitized Boundary Isolation (Global Flank Tracks: Zangezur, Baltic, Essequibo, Hsinchu).
+
 ---
 
 ## 🧱 3.0 Trans-Continental Corridors & Cost Grid
