@@ -19,6 +19,8 @@ The following asset layer is securely archived within this repository for open-a
 
  * **`TRACK-B.md`** - Technical Manual: Multi-Chokepoint Arbitrage Shields & De-Digitized Boundary Isolation (Global Flank Tracks: Zangezur, Baltic, Essequibo, Hsinchu).
 
+* **`VOLUME-II.md`** - Technical Manual: Global Intra-Regional Transactions & Zero-Trust Infrastructure Loops (Tracks 1, 6, 10, 15).
+
 ---
 
 ## 🧱 3.0 Trans-Continental Corridors & Cost Grid
