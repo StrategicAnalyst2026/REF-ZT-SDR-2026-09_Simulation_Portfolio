@@ -5,6 +5,13 @@
 **Evaluation Tier:** Wargaming Simulation Design Asset / Red-Team Stress-Test Baseline  
 **Total Project Capital Allocation:** USD $41.2 Billion Multinational Joint-Venture Consortium
 
+> ⚠️ **STRATEGIC CIVILS & REALIZATION AMENDMENT (OCTOBER 2026)**
+> Please note that the attached legacy document draft (`20260921_MBZUAI_REF_ZT_SDR_Vol01_TrackA_Energy_Bypass_Simulation.pdf`) represents the initial conceptual simulation architecture submitted for academic review on September 21, 2026. 
+> 
+> To achieve a definitive **10 out of 10 Build Viability and Sovereign Adoptability Status** using mature, commercially available, present-day civil engineering and hardware telemetry, the architecture has been fully upgraded. The laboratory-stage elements within the legacy PDF (specifically plasma-torque vitrification, bismuth-antimonide quantum insulator lattices, and cryogenic loops) have been systematically phased out. 
+> 
+> **This active `README.md` manifest and its adjacent `.md` manuals serve as the final, authoritative engineering specifications governing the physical implementation ledger.**
+
 ---
 
 ## 🔍 1.0 Executive Overview
