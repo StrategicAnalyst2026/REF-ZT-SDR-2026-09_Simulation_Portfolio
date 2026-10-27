@@ -28,6 +28,8 @@ The following asset layer is securely archived within this repository for open-a
 
 * **`VOLUME-II.md`** - Technical Manual: Global Intra-Regional Transactions & Zero-Trust Infrastructure Loops (Tracks 1, 6, 10, 15).
 
+* **`INTERIM-STABILIZATION.md`** - Technical Manual: Volume 01 / Section 10 – Strategic Interim Stabilization Protocol (Multi-Tiered Accelerated Logistics & Capacity-Swapping Overrides).
+
 ---
 
 ## 🧱 3.0 Trans-Continental Corridors & Cost Grid
