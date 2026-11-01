@@ -30,6 +30,10 @@ The following asset layer is securely archived within this repository for open-a
 
 * **`INTERIM-STABILIZATION.md`** - Technical Manual: Volume 01 / Section 10 – Strategic Interim Stabilization Protocol (Multi-Tiered Accelerated Logistics & Capacity-Swapping Overrides).
 
+* **`VOLUME-III-TRACK-A.md`** - Technical Manual: Volume III / Track A – Levant Regional Stabilization Framework (Macro-Infrastructure, Segmented Vaults, & Quad-Node Escrow Rings).
+
+* **`VOLUME-III-TRACK-B.md`** - Technical Manual: Volume III / Track B – Levant Human Protection Operating System (Edge HSM Registries, Fluidic Shunts, & Biometric Fluidity).
+
 ---
 
 ## 🧱 3.0 Trans-Continental Corridors & Cost Grid
