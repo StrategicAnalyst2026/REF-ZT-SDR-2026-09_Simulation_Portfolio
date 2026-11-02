@@ -56,3 +56,14 @@ To permanently elevate the Sovereign Narrative Asymmetry and security profile ac
 
 * **C-OTDR & Pressurized Nitrogen:** Dark fiber loops with AES-256 encryption and nitrogen-pressurized steel conduits detect physical intrusions and purge keyspaces instantly via analog pressure drops.
 * **Closed-Loop X-Ray Profilers:** Cross-reference physical component dimensions against steel density footprints in real time.
+
+---
+
+## 7.0 ENERGY CORRIDOR ACCELERATION & JURISDICTIONAL ENCLOSURE PROTOCOLS
+To compress the master realization timeline of the Track B Macro-Energy Bypass Corridor to a 12-to-14-month delivery ceiling, the framework integrates self-enforcing algorithmic surcharges and ex-territorial right-of-way overrides:
+
+### A. CLAUSE 7.1 - ALGORITHMIC CHOKEPOINT WAR-RISK SURCHARGES
+The ADGM macro-financial settlement grid hardcodes an automated transaction pricing interlock linked straight to global maritime war-risk insurance indices. Upon verification of local maritime friction or premium volatility within designated chokepoint coordinates (Straits of Hormuz / Malacca), the ledger automatically applies a non-negotiable War-Risk Surcharge to all un-decoupled regional volume. Concurrently, a 15% optimization credit is cleared to all resource allocations routed through the inline ultrasonic mass-flow ledger loops, utilizing immediate market cash-flow differentials to mandate total structural transition velocity.
+
+### B. CLAUSE 7.2 - EX-TERRITORIAL ADIT SANCTUARY MANDATES
+To guarantee parallel Double-Shield Tunnel Boring Machine (TBM) excavation speeds, the 5-kilometer right-of-way corridor is legally isolated under a non-rescindable Sovereign Ex-Territorial Infrastructure Sanctuary status. All domestic municipal land-use litigation, planning delays, and local administrative permissions are structurally preempted and vested exclusively within the Singapore International Commercial Court (SICC) fast-track arbitration council, enabling immediate, simultaneous concurrent shaft-sinking operations across all designated coordinates on Day One of project authorization.
