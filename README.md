@@ -34,6 +34,8 @@ The following asset layer is securely archived within this repository for open-a
 
 * **`VOLUME-III-TRACK-B.md`** - Technical Manual: Volume III / Track B – Levant Human Protection Operating System (Edge HSM Registries, Fluidic Shunts, & Biometric Fluidity).
 
+* **`VOLUME-III-TRACK-C.md`** - Technical Manual: Volume III / Track C – Levant Macro-Utility Distribution Architecture (Co-Extruded HDPE Conduit Spine & Pre-Commissioned Sinai Terminals).
+
 ---
 
 ## 🧱 3.0 Trans-Continental Corridors & Cost Grid
